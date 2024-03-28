@@ -1,20 +1,26 @@
-<h1 align="center">Hi 👋, I'm Mohini Koduri</h1>
-<h3 align="center">A passionate frontend developer from Basingstoke, UK.</h3>
+# Hi 👋 I'm Mohini Koduri
+  ## A passionate frontend developer from Basingstoke, UK
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohinikoduri&label=Profile%20views&color=0e75b6&style=flat" alt="mohinikoduri" /> </p>
-<p align="center"> <img src="https://raw.githubusercontent.com/mohinikoduri/mohinikoduri/main/images/MohiniProfilePicture.jpg" alt="mohiniphoto" width="300px"/> </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohinikoduri/mohinikoduri/main/images/MohiniProfilePicture.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohinikoduri/mohinikoduri/main/images/MohiniProfilePicture.jpg">
+  <img alt="how I look" width="300px" src="https://raw.githubusercontent.com/mohinikoduri/mohinikoduri/main/images/MohiniProfilePicture.jpg">
+</picture>
 
-- 🔭 I’m currently working on **UI Projects with MERN stack**
+-  I’m currently working on **UI Projects with MERN stack**
 
-- 🌱 I’m currently learning **Web development Course in Hyperion**
+-  I’m currently learning **Web development Course in Hyperion**
 
-- 💬 Ask me about **react,Mongo DB, Javascript, Node.js**
+-  Ask me about **react,Mongo DB, Javascript, Node.js**
 
-- 📫 How to reach me **mohini.koduri@gmail.com**
+-  How to reach me **mohini.koduri@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+  ### My Day to Day Activities
+  - [x] Attending the Hyperion Dev Tech and career service sessions for few hours
+  - [x] Working on assigned technical tasks on the sessions finished earlier
+  - [x] Working on code review comments once I receive them after task submission for review
+  - [x] Reading the training material provided to enhance my knowledge
+  - [x] Participating actively in polls conducted during the tech sessions to answer the questions
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
